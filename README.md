@@ -15,3 +15,4 @@ In service of modularizing my Apple Scripts, I've created a few small libraries 
   * Create a single logging handler to log to a file of your choice
   * Set log threshold (DEBUG, INFO, WARNING, ERROR, or FATAL) below which nothing is logged
 * Future functionality may include the ability to create multiple handlers to log to different destinations, but I don't know if I'll bother yet.
+* .scpt files are compiled files, but can be viewed and edited in Script Editor. I've also included the same code as .js files for ease of viewing online
